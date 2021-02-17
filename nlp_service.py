@@ -92,5 +92,3 @@ def bag_of_words(text):
     
     return result
 
-print(stemming("bonjour je suis triste .l,nl: j"))
-print(tokenization("bonjour je suis triste .l,nl: j"))
